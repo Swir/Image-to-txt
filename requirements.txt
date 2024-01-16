@@ -1,1 +1,1 @@
-
+pip install pillow tk base64
