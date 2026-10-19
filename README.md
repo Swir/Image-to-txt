@@ -15,6 +15,12 @@
 
 </div>
 
+## 📸 Screenshot
+
+![Image-to-txt application screenshot](docs/screenshots/application.jpg)
+
+Initial image-to-text converter window on Windows.
+
 # Image to TXT
 
 Two experimental Tkinter utilities for Base64-oriented image/file conversion and preview workflows.
